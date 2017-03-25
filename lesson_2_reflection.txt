@@ -1,9 +1,15 @@
 1.What happens when you initialize a repository? Why do you need to do it?
 
-My answer: See my OneNote....by using ls -a we could find something concealed.....    Using git status .
+My answer: See my OneNote....by using ls -a we could find something concealed.....
+           Using git status .
 
 2.How is the staging area different from the working directory and the repository?
   What value do you think it offers?
+My answe: This place is used to store the file that you want to commit. Which means
+          that we should use git add command to add the file in working directory
+          to staging area ,then use git commit commad to commit the staging area to
+          repository
+
 
 3.How can you use the staging area to make sure you have one commit per logical
 change?
