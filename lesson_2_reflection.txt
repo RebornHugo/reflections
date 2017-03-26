@@ -11,12 +11,11 @@ My answer: This place is used to store the file that you want to commit. Which m
           to staging area ,then use git commit commad to commit the staging area to
           repository
 
-
 3.How can you use the staging area to make sure you have one commit per logical
 change?
 
 My answer: 1.Typing git diff to show the changes working directory versus staging
-           area.
+           area. 2.git add , git commit ,see whether the star or plus symbols is gone!
 
 4.What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
