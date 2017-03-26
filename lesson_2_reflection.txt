@@ -5,7 +5,8 @@ My answer: See my OneNote....by using ls -a we could find something concealed...
 
 2.How is the staging area different from the working directory and the repository?
   What value do you think it offers?
-My answe: This place is used to store the file that you want to commit. Which means
+
+My answer: This place is used to store the file that you want to commit. Which means
           that we should use git add command to add the file in working directory
           to staging area ,then use git commit commad to commit the staging area to
           repository
@@ -13,6 +14,9 @@ My answe: This place is used to store the file that you want to commit. Which me
 
 3.How can you use the staging area to make sure you have one commit per logical
 change?
+
+My answer: 1.Typing git diff to show the changes working directory versus staging
+           area.
 
 4.What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
