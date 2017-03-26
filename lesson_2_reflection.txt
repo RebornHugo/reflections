@@ -36,3 +36,6 @@ in the specific branch will happened at the checked-out branch again.
 
 7.What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+My answer: automatic merging can do this merge more convinient but not smart enough, sometimes
+my lead trouble, however doing merges manually is more complicate but more accurate.
