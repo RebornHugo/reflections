@@ -31,5 +31,8 @@ My answer: git log --graph --oneline master coins ,draw the diagram.
 6.What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+My answer: this will merge the specific branch into checked-out branch. Every single change
+in the specific branch will happened at the checked-out branch again.
+
 7.What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
